@@ -1,0 +1,303 @@
+! Version: 2020.06
+! Title:  【QQ 规则】
+# Type: hosts
+# Update: 2020.06
+# Author: https://leeyr.com
+# Decs: 
+#  - Feedback：https://leeyr.com/msg.html / leeyr365@gmail.com
+#################################
+################################# QQ 额外
+#0.0.0.0 s.url.cn #很多会用到
+#0.0.0.0 s1.url.cn #很多会用到
+#0.0.0.0 dl.url.cn #很多会用到
+#0.0.0.0 shofclans.scinbox.qq.com
+0.0.0.0 report.url.cn
+0.0.0.0 merge.report.url.cn
+0.0.0.0 s2.url.cn
+
+################################# 特殊
+#0.0.0.0 di.ssl.msdk.qq.com
+#0.0.0.0 dir.minigme.qq.com
+#0.0.0.0 dl_dir.qq.com
+#0.0.0.0 dl_dir2.qq.com
+#0.0.0.0 dldir1.qq.com
+#0.0.0.0 dldir2.qq.com
+#0.0.0.0 dldir3.qq.com
+#0.0.0.0 i.gdt.qq.com #QQ空间相关
+#0.0.0.0 pgdt.gtimg.cn #QQ空间相关
+#0.0.0.0 report.huatuo.qq.com #QQ空间相关
+#0.0.0.0 statistic.qzone.qq.com #Q空间
+#0.0.0.0 v.gdt.qq.com #QQ空间相关
+#0.0.0.0 v2.gdt.qq.com #QQ空间相关
+0.0.0.0 2052.flash2-http.qq.com
+0.0.0.0 54kfqq.com
+0.0.0.0 a.ssl.msdk.qq.com
+0.0.0.0 activeqq.3g.qq.com
+0.0.0.0 ad.qq.com
+0.0.0.0 ad.qun.qq.com
+0.0.0.0 adfilter.imtt.qq.com
+0.0.0.0 adping.qq.com
+0.0.0.0 adpm.app.qq.com
+0.0.0.0 adrdir.qq.com
+0.0.0.0 adsclick.qq.com
+0.0.0.0 adsense.html5.qq.com
+0.0.0.0 adsfile.qq.com
+0.0.0.0 adsfile.qq.com0.0.0.0 adshmct.qq.com
+0.0.0.0 adsgroup.qq.com
+0.0.0.0 adshmct.qq.com
+0.0.0.0 adshmct.qq.com0.0.0.0 q.i.gdt.qq.com
+0.0.0.0 adshmmsg.qq.com
+0.0.0.0 adslvfile.qq.com
+0.0.0.0 adslvfile.qq.com0.0.0.0 adslvseed.qq.com
+0.0.0.0 adslvseed.qq.com
+0.0.0.0 adsolution.imtt.qq.com
+0.0.0.0 adsqqclick.qq.com
+0.0.0.0 adsrich.qq.com
+0.0.0.0 adstextview.qq.com
+0.0.0.0 adsview.qq.com
+0.0.0.0 adsview2.qq.com
+0.0.0.0 adv.app.qq.com
+0.0.0.0 adver.qq.com
+0.0.0.0 aeventlog.beacon.qq.com
+0.0.0.0 aeventlog.beacon.qq.com.adserver.com
+0.0.0.0 aexception.bugly.qq.com
+0.0.0.0 ahf.bugly.qq.com
+0.0.0.0 aid.video.qq.com
+0.0.0.0 analy.qq.com
+0.0.0.0 analytics.map.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 android.rqd.qq.com
+0.0.0.0 android-mirror.bugly.qq.com
+0.0.0.0 api.bugly.qq.com
+0.0.0.0 appsupport.qq.com
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 astrategy.beacon.qq.com
+0.0.0.0 beacon.qq.com
+0.0.0.0 beta.bugly.qq.com
+0.0.0.0 bill.ngo.minigme.qq.com
+0.0.0.0 bs.l.qq.com
+0.0.0.0 btrace.qq.com
+0.0.0.0 btrace.video.qq.com
+0.0.0.0 bugly.qq.com
+0.0.0.0 bugreportv2.qq.com
+0.0.0.0 c.gdt.qq.com
+0.0.0.0 c.gj.qq.com
+0.0.0.0 c.isdspeed.qq.com
+0.0.0.0 c.l.qq.com
+0.0.0.0 c.pc.qq.com
+0.0.0.0 c2.l.qq.com
+0.0.0.0 canvas.gdt.qq.com
+0.0.0.0 cas.bugly.qq.com
+0.0.0.0 cb.l.qq.com
+0.0.0.0 cdn.ark.qq.com
+0.0.0.0 cdn.bugly.qq.com
+0.0.0.0 cfg.imtt.qq.com
+0.0.0.0 cgi.connect.qq.com
+0.0.0.0 cl.qq.com
+0.0.0.0 client.show.qq.com
+0.0.0.0 cm.e.qq.com
+0.0.0.0 cm.l.qq.com
+0.0.0.0 configsvr.openmsf.3g.qq.com
+0.0.0.0 d.gdt.qq.com
+0.0.0.0 d3g.qq.com
+0.0.0.0 dlied6.qq.com
+0.0.0.0 download.sj.qq.com
+0.0.0.0 dp3.qq.com
+0.0.0.0 dsx.bugly.qq.com
+0.0.0.0 e.qq.com
+0.0.0.0 etg.qq.com
+0.0.0.0 eventlog.beacon.qq.com
+0.0.0.0 ex.qq.com
+0.0.0.0 fm.qzone.qq.com
+0.0.0.0 fodder.qq.com
+0.0.0.0 fodder.tc.qq.com
+0.0.0.0 fw.qq.com
+0.0.0.0 game.html5.qq.com
+0.0.0.0 go.minigme.qq.com
+0.0.0.0 gu.qlogo.cn
+0.0.0.0 guanjia.qq.com
+0.0.0.0 hm.l.qq.com
+0.0.0.0 httpring.qq.com
+0.0.0.0 huatuocode.weiyun.com #QQ空间相关
+0.0.0.0 huatuospeed.weiyun.com
+0.0.0.0 huskieaccess.bugly.qq.com
+0.0.0.0 ieventlog.beacon.qq.com
+0.0.0.0 if.mingxing.qq.com
+0.0.0.0 imc.l.qq.com
+0.0.0.0 img.ssl.msdk.qq.com
+0.0.0.0 img1.gtimg.com
+0.0.0.0 img1.sj.qq.com
+0.0.0.0 info.3g.qq.com
+0.0.0.0 info.gamecenter.qq.com.adserver.com
+0.0.0.0 ios.bugly.qq.com
+0.0.0.0 j.wit.qq.com
+0.0.0.0 jingjia.qq.com
+0.0.0.0 jpush.html5.qq.com
+0.0.0.0 jqmt.qq.com
+0.0.0.0 jrlt.beacon.qq.com
+0.0.0.0 jsqmt.qq.com
+0.0.0.0 l.qq.com
+0.0.0.0 l2.l.qq.com
+0.0.0.0 lb.l.qq.com
+0.0.0.0 lcsdk.3g.qq.com
+0.0.0.0 livec.l.qq.com
+0.0.0.0 livem.l.qq.com
+0.0.0.0 livep.l.ott.video.qq.com
+0.0.0.0 livep.l.qq.com
+0.0.0.0 lives.l.ott.video.qq.com
+0.0.0.0 lives.l.qq.com
+0.0.0.0 livew.l.qq.com
+0.0.0.0 lobby.minigme.qq.com
+0.0.0.0 loclhost.qqgme.qq.com
+0.0.0.0 log.minigame.qq.com
+0.0.0.0 log.tbs.qq.com
+0.0.0.0 log.wtlogin.qq.com
+0.0.0.0 logsdk.qq.com
+0.0.0.0 ls.l.qq.com
+0.0.0.0 m.bugly.qq.com
+0.0.0.0 mapp.qzone.qq.com
+0.0.0.0 masdk.3g.qq.com
+0.0.0.0 mazu.3g.qq.com
+0.0.0.0 mcgi.v.qq.com.adserver.com
+0.0.0.0 mdevstat.qqlive.qq.com
+0.0.0.0 mi.gdt.qq.com
+0.0.0.0 mini2015.qq.com
+0.0.0.0 misc.wcd.qq.com
+0.0.0.0 mobwin.app.qq.com
+0.0.0.0 monitor.uu.qq.com
+0.0.0.0 mqqad.cs0309.html5.qq.com
+0.0.0.0 mqqad.html5.qq.com
+0.0.0.0 mqqadr.reader.qq.com
+0.0.0.0 msdk.qq.com
+0.0.0.0 msf.sprt.mig.tencent-cloud.net
+0.0.0.0 mtrace.qq.com
+0.0.0.0 nc.gdt.qq.com
+0.0.0.0 news.l.qq.com
+0.0.0.0 news.mpush.qq.com
+0.0.0.0 news-l.play.ott.video.qq.com
+0.0.0.0 node.minigme.qq.com
+0.0.0.0 novelsns.html5.qq.com
+0.0.0.0 oimsgad.qq.com
+0.0.0.0 omgmta.play.ott.video.qq.com
+0.0.0.0 omgmta.qq.com
+0.0.0.0 omgmta.qq.com.adserver.com
+0.0.0.0 omgmta1.qq.com
+0.0.0.0 op.ssp.qq.com
+0.0.0.0 openapi.guanjia.qq.com
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 oth.str.mdt.qq.com.jaadser.adserver.com
+0.0.0.0 oth.update.mdt.qq.com
+0.0.0.0 otheve.beacon.qq.com
+0.0.0.0 p.l.qq.com
+0.0.0.0 p.store.qq.com
+0.0.0.0 p2.l.qq.com
+0.0.0.0 p2pupdate.gamedl.qq.com
+0.0.0.0 p3.l.qq.com
+0.0.0.0 pacaio.match.qq.com
+0.0.0.0 pagespeed.report.qq.com
+0.0.0.0 pcbrowser.dd.qq.com
+0.0.0.0 pingfore.qq.com
+0.0.0.0 pingfore.tenpay.com
+0.0.0.0 pinghot.qq.com #Q空间
+0.0.0.0 pingjs.qq.com
+0.0.0.0 pingma.qq.com
+0.0.0.0 pingtcss.qq.com
+0.0.0.0 play.qq.com
+0.0.0.0 pmir.3g.qq.com
+0.0.0.0 pms.mb.qq.com
+0.0.0.0 ppdir1.minigme.qq.com
+0.0.0.0 ppdir2.minigme.qq.com
+0.0.0.0 ptlogin2.bugly.qq.com
+0.0.0.0 pvstat.html5.qq.com
+0.0.0.0 py.qlogo.cn
+0.0.0.0 py2.qlogo.cn
+0.0.0.0 q.i.gdt.qq.com
+0.0.0.0 qbwup.imtt.qq.com #http://drops.xmd5.com/static/drops/papers-14532.html
+0.0.0.0 qd-update.qq.com
+0.0.0.0 qos.report.qq.com
+0.0.0.0 qqbm.zhuiying.net
+0.0.0.0 qqbmad.mycode8.net
+0.0.0.0 qqlogo.qq.com
+0.0.0.0 qqshow2-item.qq.com
+0.0.0.0 qring-tms.qq.com
+0.0.0.0 qss-client.qq.com
+0.0.0.0 rcgi.video.qq.com
+0.0.0.0 recmd.html5.qq.com
+0.0.0.0 report.imtt.qq.com #http://drops.xmd5.com/static/drops/papers-14532.html
+0.0.0.0 report.kg.qq.com
+0.0.0.0 report.pet.qq.com
+0.0.0.0 report.qq.com
+0.0.0.0 report.vip.qq.com
+0.0.0.0 rh.qq.com
+0.0.0.0 rich.qq.com
+0.0.0.0 rm.gdt.qq.com
+0.0.0.0 rs1.qq.com
+0.0.0.0 rs2.qq.com
+0.0.0.0 s.gdt.qq.com
+0.0.0.0 safebrowsing.urlsec.qq.com
+0.0.0.0 sasdk.3g.qq.com
+0.0.0.0 scdown.qq.com
+0.0.0.0 sdk.e.qq.com
+0.0.0.0 seed.minigme.qq.com
+0.0.0.0 setting.snswin.qq.com
+0.0.0.0 show-msgch.qq.com
+0.0.0.0 showwxml.qq.com
+0.0.0.0 sngmta.qq.com
+0.0.0.0 soft.tbs.imtt.qq.com
+0.0.0.0 ssl.msdk.qq.com
+0.0.0.0 statistic.qzone.qq.com
+0.0.0.0 stdl.qq.com #QQdoc+空间
+0.0.0.0 strategy.beacon.qq.com
+0.0.0.0 sync.3g.qq.com
+0.0.0.0 szshort.weixin.qq.com.adserver.com
+0.0.0.0 t.gdt.qq.com
+0.0.0.0 t.l.qq.com
+0.0.0.0 t.sj.qq.com
+0.0.0.0 ta.qq.com
+0.0.0.0 tajs.qq.com
+0.0.0.0 tajs.qq.com #QQMail
+0.0.0.0 tcss.qq.com
+0.0.0.0 tdc.qq.com
+0.0.0.0 test-astat.bugly.qq.com
+0.0.0.0 tgw-masdk.3g.qq.com
+0.0.0.0 tgw-sasdk.3g.qq.com
+0.0.0.0 tj.b.qq.com
+0.0.0.0 tj.video.qq.com
+0.0.0.0 tools.3g.qq.com #QQ管家+CNAME: security.sparta.mig.tencent-cloud.net.
+0.0.0.0 tpush.html5.qq.com
+0.0.0.0 trace.qq.com
+0.0.0.0 trace-report.tgp.qq.com
+0.0.0.0 union.discuz.qq.com
+0.0.0.0 union.qq.com
+0.0.0.0 update.browser.qq.com #https://wooyun.js.org/drops/QQ%E6%B5%8F%E8%A7%88%E5%99%A8%E9%9A%90%E7%A7%81%E6%B3%84%E9%9C%B2%E6%8A%A5%E5%91%8A.html
+0.0.0.0 updatecenter.qq.com
+0.0.0.0 up-hl.3g.qq.com
+0.0.0.0 upload_data.qq.com
+0.0.0.0 user1.game.qq.com
+0.0.0.0 v.gdt.qq.com
+0.0.0.0 vd.l.qq.com
+0.0.0.0 vectorsdk.map.qq.com
+0.0.0.0 vhotlxp.video.qq.com
+0.0.0.0 video.ureport.push.qq.com
+0.0.0.0 video.wap.mpush.qq.com
+0.0.0.0 vlive.qqvideo.tc.qq.com
+0.0.0.0 vmindhls.tc.qq.com
+0.0.0.0 vpic.video.qq.com
+0.0.0.0 vv.video.qq.com
+0.0.0.0 w.l.qq.com
+0.0.0.0 wap.mpush.qq.com
+0.0.0.0 win.gdt.qq.com
+0.0.0.0 ws.sj.qq.com
+0.0.0.0 wspeed.qq.com #Q空间相关
+0.0.0.0 wup.browser.qq.com
+0.0.0.0 wup.html5.qq.com #http://drops.xmd5.com/static/drops/papers-14532.html
+0.0.0.0 wup.imtt.qq.com #http://drops.xmd5.com/static/drops/papers-14532.html
+0.0.0.0 wup.imtt.qq.com.adserver.com
+0.0.0.0 wxsnsdy.tc.qq.com
+0.0.0.0 wxsnsdy.video.qq.com
+0.0.0.0 wxsnsdy.wxs.qq.com
+0.0.0.0 wxsnsdythumb.wxs.qq.com
+0.0.0.0 xc.gdt.qq.com
+0.0.0.0 ysdk.qq.com
+0.0.0.0 yun-hl.3g.qq.com
